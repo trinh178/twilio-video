@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3f3f52e4b20d747f098013fc6f9a3aaa",
+    "revision": "52376aa2aea6692618bfb38c03fd5940",
     "url": "/twilio-video/index.html"
   },
   {
-    "revision": "fd05a77534d29c60507f",
-    "url": "/twilio-video/static/js/2.47d66fe7.chunk.js"
+    "revision": "b61c7852bca43799c892",
+    "url": "/twilio-video/static/js/2.1a710b5c.chunk.js"
   },
   {
     "revision": "046558e6751caad2cc7ddb91f4013e3a",
-    "url": "/twilio-video/static/js/2.47d66fe7.chunk.js.LICENSE.txt"
+    "url": "/twilio-video/static/js/2.1a710b5c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8a7f0779ea9e8a7a993f",
-    "url": "/twilio-video/static/js/main.70a7da67.chunk.js"
+    "revision": "7003bf8fcba4ae75eb28",
+    "url": "/twilio-video/static/js/main.199b7ba7.chunk.js"
   },
   {
     "revision": "615f3847d74b0fabba0d",
