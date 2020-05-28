@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/twilio-video/static/js/main.5937e86c.chunk.js",
-    "main.js.map": "/twilio-video/static/js/main.5937e86c.chunk.js.map",
+    "main.js": "/twilio-video/static/js/main.773e23af.chunk.js",
+    "main.js.map": "/twilio-video/static/js/main.773e23af.chunk.js.map",
     "runtime-main.js": "/twilio-video/static/js/runtime-main.8cf76b08.js",
     "runtime-main.js.map": "/twilio-video/static/js/runtime-main.8cf76b08.js.map",
     "static/js/2.1d86cd34.chunk.js": "/twilio-video/static/js/2.1d86cd34.chunk.js",
     "static/js/2.1d86cd34.chunk.js.map": "/twilio-video/static/js/2.1d86cd34.chunk.js.map",
     "index.html": "/twilio-video/index.html",
-    "precache-manifest.e7aa9c9c35bfd5d51a1db6ba9ff5395c.js": "/twilio-video/precache-manifest.e7aa9c9c35bfd5d51a1db6ba9ff5395c.js",
+    "precache-manifest.88e2be414f17e61b6d13a6affe1834c6.js": "/twilio-video/precache-manifest.88e2be414f17e61b6d13a6affe1834c6.js",
     "service-worker.js": "/twilio-video/service-worker.js",
     "static/js/2.1d86cd34.chunk.js.LICENSE.txt": "/twilio-video/static/js/2.1d86cd34.chunk.js.LICENSE.txt",
     "static/media/google-logo.06c50bce.svg": "/twilio-video/static/media/google-logo.06c50bce.svg",
@@ -16,6 +16,6 @@
   "entrypoints": [
     "static/js/runtime-main.8cf76b08.js",
     "static/js/2.1d86cd34.chunk.js",
-    "static/js/main.5937e86c.chunk.js"
+    "static/js/main.773e23af.chunk.js"
   ]
 }

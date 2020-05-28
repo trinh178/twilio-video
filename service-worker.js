@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/twilio-video/precache-manifest.e7aa9c9c35bfd5d51a1db6ba9ff5395c.js"
+  "/twilio-video/precache-manifest.88e2be414f17e61b6d13a6affe1834c6.js"
 );
 
 self.addEventListener('message', (event) => {
